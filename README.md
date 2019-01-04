@@ -1,4 +1,8 @@
 # Support for my blog
 
-https://vanheckblog.blogspot.cz
+https://vanhecksite.cz/
+
+and
+
+https://vanheckblog.blogspot.cz (old)
 
